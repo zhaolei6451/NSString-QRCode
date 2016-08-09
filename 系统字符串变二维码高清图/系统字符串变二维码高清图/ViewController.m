@@ -16,7 +16,7 @@
 
 @implementation ViewController
 - (IBAction)createQRcode:(id)sender {
-    
+    //////////测试改变
     if (_sourceTextField.text.length == 0) {
         return;
     }
